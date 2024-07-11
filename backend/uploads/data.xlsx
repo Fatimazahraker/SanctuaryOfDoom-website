@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+<table class=" rgClipCells" id="ContentPlaceHolderMain_GameServers1_GridGameServers_WebGrid_ctl00" style="width:100%;table-layout:fixed;overflow:hidden;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">Connection Info</th><th scope="col">Name</th><th scope="col">Game</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>164.152.123.220:8766</td><td>[EU][PVE][No Lag][24/7] Sanctuary of the Doomed Modded</td><td>Project Zomboid</td>
+	</tr><tr>
+		<td>164.152.123.220:7887</td><td>32 slots Palworld</td><td>Palworld</td>
+	</tr><tr>
+		<td>164.152.123.220:26900</td><td>90199420715606019</td><td>Myth of Empires</td>
+	</tr><tr>
+		<td>164.152.123.220:7777</td><td>&nbsp;</td><td>Satisfactory</td>
+	</tr><tr>
+		<td>164.152.123.220:27025</td><td>[EU] Sanctuary of the Doomed</td><td>Valheim</td>
+	</tr><tr>
+		<td>164.152.123.220:25565</td><td>[EU] Sanctuary of the Doomed Vanilla</td><td>Minecraft</td>
+	</tr><tr>
+		<td>164.152.123.220:25585</td><td>[EU] Sanctuary of the Doomed Dawncraft</td><td>Minecraft</td>
+	</tr><tr>
+		<td>164.152.123.220:25605</td><td>[EU] Sanctuary of the Doomed Fear Nightfall</td><td>Minecraft</td>
+	</tr><tr>
+		<td>164.152.123.220:28015</td><td>[EU] Sanctuary of the Doomed Vanilla</td><td>Rust</td>
+	</tr><tr>
+		<td>164.152.123.220:7780</td><td>8 slots Terraria</td><td>Terraria</td>
+	</tr><tr>
+		<td>164.152.123.220:28025</td><td>[EU] Sanctuary of the Doomed |2X|PVP|</td><td>Rust</td>
+	</tr><tr>
+		<td>164.152.123.220:8768</td><td>[EU][PVP][No Lag][24/7] Sanctuary of the Doomed Vanilla</td><td>Project Zomboid</td>
+	</tr><tr>
+		<td>164.152.123.220:7783</td><td>100 slots Terraria</td><td>Terraria</td>
+	</tr><tr>
+		<td>164.152.123.220:27018</td><td>48 slots Unturned</td><td>Unturned</td>
+	</tr><tr>
+		<td>164.152.123.220:25625</td><td>[EU] Sanctuary of the Doomed RLCraft</td><td>Minecraft</td>
+	</tr><tr>
+		<td>164.152.123.220:27045</td><td>Sanctuary of the Doomed Garrys Mod</td><td>Garry&#39;s Mod</td>
+	</tr><tr>
+		<td>164.152.123.220:25645</td><td>[EU] Sanctuary of the Doomed Steampunk</td><td>Minecraft</td>
+	</tr>
+	</tbody>
+
+</table></body></html>
