@@ -1,0 +1,93 @@
+#userview {
+  padding: 20px;
+  margin: 0 auto;
+  height: auto; /* Remove fixed height for better responsiveness */
+  max-width: 100%;
+}
+
+#userview h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #ffffff;
+  margin-bottom: 20px;
+  margin-top: 93px;
+}
+
+#userview h2 {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #ffffff;
+  margin-bottom: 38px;
+  margin-top: 28px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  overflow-x: auto; /* Add horizontal scroll for smaller screens */
+  display: block; /* Display as block to make it scrollable */
+}
+
+table thead {
+  background-color: #333;
+  color: #fff;
+}
+
+table th, table td {
+  padding: 12px 15px;
+  text-align: left;
+  border: 1px solid #ddd;
+  word-wrap: break-word; /* Allow words to break */
+}
+
+table tbody tr:hover {
+  background-color: #54225e;
+}
+
+table th {
+  background-color: #30082c;
+  color: white;
+}
+
+table td {
+  font-size: 1rem;
+  color: #ffffff;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  #userview h1 {
+    font-size: 2rem;
+    margin-top: 50px;
+  }
+
+  #userview h2 {
+    font-size: 1.2rem;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+
+  table th, table td {
+    padding: 8px 10px;
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  #userview h1 {
+    font-size: 1.8rem;
+    margin-top: 78px;
+  }
+
+  #userview h2 {
+    font-size: 1rem;
+    margin-top: 15px;
+    margin-bottom: 20px;
+  }
+
+  table th, table td {
+    padding: 6px 8px;
+    font-size: 0.8rem;
+  }
+}
